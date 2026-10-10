@@ -27,9 +27,9 @@ streamlit run app.py
 
 If `pip` is not recognised, use `python -m pip install -r requirements.txt` and `python -m streamlit run app.py`.
 
-## Limitations
+## Dataset
 
-The dataset is synthetic, so real-world performance may differ. Predicted probabilities are not calibrated flood probabilities. This project is for educational purposes and should not be used for emergency decisions.
+Sri Lanka Flood Risk & Inundation Dataset. Kaggle. https://www.kaggle.com/datasets/dewminimnaadi/sri-lanka-flood-risk-and-inundation-dataset
 
 ## Author
 
